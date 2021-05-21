@@ -1,0 +1,7 @@
+
+```
+git clone https://github.com/ctheune/appenv-ansible-example
+cd appenv-ansible-example
+./ansible-playbook
+```
+
