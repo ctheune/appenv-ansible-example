@@ -1,0 +1,5 @@
+ansible
+setuptools
+setuptools_scm
+wheel
+click
